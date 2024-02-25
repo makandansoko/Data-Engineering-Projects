@@ -1,6 +1,5 @@
 # Project Overview
-![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/4dc5303b-f718-4896-bab9-b3260af206db)
-
+![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/7e47751f-23a4-4094-8903-b066088a4275)
 ## Dataset Description
 City Bike data is valuable for urban planners, transportation authorities, and data analysts. It enables the study of urban mobility trends, helps optimize bike-sharing programs, and informs decisions related to city transportation infrastructure and sustainability initiatives. Analyzing this data can lead to insights into improving transportation options and reducing congestion in urban areas.
 
