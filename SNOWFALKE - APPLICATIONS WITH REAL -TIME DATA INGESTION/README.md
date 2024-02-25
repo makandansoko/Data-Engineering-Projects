@@ -1,4 +1,5 @@
 # Overview of Snowflake technology
+![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/39d39df9-f022-4e81-afb2-8616bf106270)
 
 Snowflake is a cloud-based data warehousing platform known for its:
 
