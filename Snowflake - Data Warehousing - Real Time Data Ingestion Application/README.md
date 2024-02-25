@@ -24,5 +24,5 @@ The purpose of this Snowflake project is to leverage the power of data warehousi
 * I. Creation of a Warehouse
 * II. Creation of a Database
 * III. Creation of Tables
-* IV. Creation of Stages and pipes
-* V. Application Overall check
+* IV. Creation of Stages and Pipes
+* V. Application Overall Check
