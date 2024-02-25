@@ -1,4 +1,5 @@
 # MyPortfolio
+![image](https://github.com/makandansoko/MyPortfolio/assets/144046065/3275c9ed-6472-463a-8dad-39010ba58240)
 
 Hey there! I'm Makan, a passionate engineer specializing in big data technologies. With a knack for unraveling complex datasets and deriving actionable insights, I'm dedicated to leveraging the power of data to drive informed decision-making in businesses.
 
