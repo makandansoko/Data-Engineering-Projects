@@ -1,3 +1,16 @@
+# Overview of Snowflake technology
+
+Snowflake is a cloud-based data warehousing platform known for its:
+
+* Cloud-native architecture
+* Separation of storage and compute
+* Automatic scaling
+* Data sharing and collaboration capabilities
+* Built-in security and governance features
+* Support for diverse workloads
+* Pay-per-use pricing model
+* It offers organizations scalability, flexibility, and efficiency in storing, processing, and analyzing large volumes of data in the cloud.
+
 # Project Overview
 ![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/7e47751f-23a4-4094-8903-b066088a4275)
 ## Dataset Description
