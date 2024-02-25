@@ -1,4 +1,4 @@
-<center># Data Engineering Projects</center>
+<center> # Data Engineering Projects</center>
 ![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/a228fd70-4ea0-4227-8534-d2566fc8e72d)
 
 Welcome to the Data Engineering Projects section! Here, you'll find a curated collection of projects that delve into the intricate realm of data engineering. As an engineer specialized in big data, I've dedicated this space to showcase my expertise in designing, building, and optimizing data pipelines to support the seamless flow and transformation of data.
