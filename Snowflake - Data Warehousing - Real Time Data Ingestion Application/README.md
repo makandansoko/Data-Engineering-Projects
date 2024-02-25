@@ -21,4 +21,8 @@ City Bike data is valuable for urban planners, transportation authorities, and d
 The purpose of this Snowflake project is to leverage the power of data warehousing to analyze City Bike data and extract valuable insights into urban transportation trends. By delving into this dataset, our goal is to uncover usage patterns, identify peak hours for bike rentals in different city areas, and explore user behavior distinctions between subscribers and casual riders. This analysis aims to provide actionable information to urban planners, transportation authorities, and stakeholders, supporting data-driven decision-making and fostering more efficient and sustainable urban mobility solutions.
 
 # Application Overview
-1. Creation of a Warehouse![image](https://github.com/makandansoko/Data-Engineering-Projects/assets/144046065/14d848d7-14a2-4e83-8786-6898cb79ef32)
+* 1. Creation of a Warehouse
+* 2. Creation of a Database
+* 3. Creation of Tables
+* 4. Creation of Stages and pipes
+* 5. Application Overall check
