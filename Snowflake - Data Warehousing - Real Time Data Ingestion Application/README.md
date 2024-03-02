@@ -22,6 +22,8 @@ The purpose of this Snowflake project is to leverage the power of data warehousi
 
 # Application Overview
 * I. Creation of a Warehouse
+* https://github.com/makandansoko/Data-Engineering-Projects/blob/main/Snowflake%20-%20Data%20Warehousing%20-%20Real%20Time%20Data%20Ingestion%20Application/I)%20Database%20Creation.md
+* 
 * II. Creation of a Database
 * III. Creation of Tables
 * IV. Creation of Stages and Pipes
